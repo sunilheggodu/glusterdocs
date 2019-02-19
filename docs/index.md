@@ -3,7 +3,9 @@
 GlusterFS is a scalable network filesystem
 suitable for data-intensive tasks such as cloud storage and media streaming.
 GlusterFS is free and open source software and can utilize common off-the-shelf
-hardware. To learn more, [please see the Gluster project home page](http://www.gluster.org).
+hardware or smoothly work in your cloud too. If you are looking at Gluster to
+provide PV (aka, Persistent Volumes) for your containers, you can follow
+the [Gluster CS documentation](Gluster for Containers/overview.md). To learn more, [please see the Gluster project home page](http://www.gluster.org).
 
 **Get Started: Quick Start/Installation Guide**
 
